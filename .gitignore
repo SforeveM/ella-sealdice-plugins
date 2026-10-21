@@ -1,0 +1,26 @@
+# Credentials and runtime data
+.env
+.env.*
+!.env.example
+*token*.txt
+*secret*.txt
+*.pem
+*.key
+*.pfx
+*.sqlite*
+*.db
+*.log
+*.pid
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+node_modules/
+.tmp/
+data/
+logs/
+uploads/
+portraits/
+program-backups/
+plugin-backups/
+tests/*-render-check.png
